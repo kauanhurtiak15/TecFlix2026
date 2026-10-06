@@ -3,3 +3,12 @@ body{
     color: blue;
      font-family: "Crimson Text", serif;
 }
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
+
