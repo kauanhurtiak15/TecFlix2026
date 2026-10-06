@@ -4,6 +4,10 @@ body{
      font-family: "Crimson Text", serif;
 }
 
+header{
+    border:solid 5px rgb(1, 183, 255)
+}
+
 h1{
     font-size: 40px;
 }
