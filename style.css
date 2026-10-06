@@ -7,7 +7,15 @@ body{
 header{
     border:solid 3px rgb(1, 183, 255);
     padding: 20px;
-    font-size: ;
+    font-size: 15px;
+}
+
+section{
+    background-color: black;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
 
 h1{
