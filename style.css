@@ -5,7 +5,8 @@ body{
 }
 
 header{
-    border:solid 3px rgb(1, 183, 255)
+    border:solid 3px rgb(1, 183, 255);
+    padding: 20px;
 }
 
 h1{
